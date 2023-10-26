@@ -6,6 +6,7 @@ class Solution {
             sell=Math.max(sell,prices[i]-buy);
         }
        return sell;
+        // just for new commit 
         
     }
 }
